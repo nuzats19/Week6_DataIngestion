@@ -1,0 +1,9 @@
+columns:
+- lesion_id
+- image_id
+- dx
+- dx_type
+- age
+- sex
+- localization
+separator: ','
